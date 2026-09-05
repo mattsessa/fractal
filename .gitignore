@@ -6,7 +6,6 @@
 .obsidian/
 
 # Agent config
-.agents
 .claude
 .codex
 
